@@ -1,6 +1,6 @@
 # Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Harsh Vartak here
 
-[![Gmail Badge](https://img.shields.io/badge/-vartak.harsh@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vartak.harsh@gmail.com)](mailto:vartak.harsh@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-vartak.harsh2000@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vartak.harsh2000@gmail.com)](mailto:vartak.harsh@gmail.com) 
 [![FaceBook Badge](https://img.shields.io/badge/-Harsh_Vartak-0072b1?style=plastic&logo=Facebook&logoColor=white&linkhttps://www.facebook.com/profile.php?id=100010606294316)](https://www.facebook.com/profile.php?id=100010606294316) 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh_Vartak-0072b1?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-vartak-a56835168/)](https://www.linkedin.com/in/harsh-vartak-a56835168/) 
 [![Github Badge](https://img.shields.io/badge/-Harsh_Vartak-grey?style=plastic&logo=github&logoColor=white&link=https://github.com/Harshvartak/)](https://www.github.com/Harshvartak/) 
